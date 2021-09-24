@@ -1,6 +1,6 @@
 # BASECAMP 42 SP
 
-All functions here were done during the Basecamp in july/2021.
+All the solutions here were done during the Basecamp in july/2021.
 
 # EVALUATED BY MOULINETTE.
 
